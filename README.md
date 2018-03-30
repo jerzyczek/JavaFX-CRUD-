@@ -1,2 +1,2 @@
 # JavaFX CRUD
-This is simple CRUD written in JavaFX who simulator hotel reservation. 
+This is simple CRUD written in JavaFX which simulate hotel reservation. 
